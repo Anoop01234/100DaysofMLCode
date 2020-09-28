@@ -2,7 +2,7 @@
 
 <h1 align="center">#100DaysofMLCode</h1>
 
-## Table of Contents
+## Table of Contents:
 
 **1. Data Pre-processing**
   * Importing Libraries
